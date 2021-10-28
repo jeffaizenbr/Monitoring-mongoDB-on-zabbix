@@ -349,7 +349,7 @@ chmod +x /usr/local/bin/zabbix-mongodb.py
 ## Restart service zabbix_agent
 
 ```bash
-systemctl restart zabbix_agent
+systemctl restart zabbix-agent
 ```
 
 OBS:  Desabilitar trigguer das maquinas de backup "NOT LOCKED BUT IS HIDDEN PRIORITY 0 ON"
