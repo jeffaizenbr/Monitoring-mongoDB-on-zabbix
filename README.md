@@ -342,7 +342,7 @@ if __name__ == '__main__':
 ## Set execution permission
 
 ```bash
-chdmod +x /usr/local/bin/mongodb-stats.sh
+chmod +x /usr/local/bin/mongodb-stats.sh
 chmod +x /usr/local/bin/zabbix-mongodb.py
 ```
 
